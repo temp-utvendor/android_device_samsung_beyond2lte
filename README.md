@@ -37,7 +37,7 @@ How to build Ubuntu Touch vendor
 
 * Extract vendor blobs
 
-        cd device/samsung/beyond0lte
+        cd device/samsung/beyond2lte
         ./extract-files.sh
         cd ../../../
 
